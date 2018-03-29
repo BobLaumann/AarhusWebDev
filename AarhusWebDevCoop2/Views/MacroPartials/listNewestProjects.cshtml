@@ -1,0 +1,36 @@
+﻿@inherits Umbraco.Web.Macros.PartialViewMacroPage
+
+@{
+    /**/
+
+    var selection = Model.Content.Site().Children.Where(x => x.IsVisible()).ToArray();
+    var root = Model.Content.Site();
+
+    IEnumerable<IPublishedContent> items = Umbraco.TypedContentAtRoot()
+    .First()
+    .Children()
+    .Where(x => x.DocumentTypeAlias == "projectsOverview")
+    .First()
+    .Children
+    .Where(x => x.HasValue("projectStatus") &&
+        Umbraco.GetPreValueAsString(
+            x.GetPropertyValue<int>("projectStatus")) == "Completed")
+    .Where(x => x.IsVisible())
+    .OrderByDescending(x => x.CreateDate).Take(5);
+}
+
+<h4>Newest Projects</h4>
+
+@if (selection.Length > 0)
+{
+    foreach (var item in items)
+    {
+        <div class="container">
+            <div class="items">
+
+                <label for="item2">@item.Name</label>
+
+            </div>
+        </div>
+    }
+}

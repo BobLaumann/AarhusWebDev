@@ -1,0 +1,342 @@
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\AutoMapper.Net4.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\AarhusWebDevCoop2.dll.config
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\AarhusWebDevCoop2.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\AarhusWebDevCoop2.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\csc.exe
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\csc.exe.config
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\csc.rsp
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\csi.exe
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\csi.exe.config
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\csi.rsp
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.AppContext.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Console.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\vbc.exe
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\vbc.exe.config
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\vbc.rsp
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\AutoMapper.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\businesslogic.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\ClientDependency.Core.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\ClientDependency.Core.Mvc.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\cms.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\controls.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Examine.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\HtmlAgilityPack.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\ImageProcessor.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\ImageProcessor.Web.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\interfaces.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Log4Net.Async.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\log4net.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Lucene.Net.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\MarkdownSharp.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.CodeAnalysis.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.Owin.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.Owin.Security.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\MiniProfiler.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\MySql.Data.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Newtonsoft.Json.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Owin.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Semver.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\SQLCE4Umbraco.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Collections.Immutable.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Data.SqlServerCe.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Net.Http.Formatting.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Reflection.Metadata.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.ValueTuple.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.Helpers.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.Http.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.Http.WebHost.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.Mvc.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.Razor.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.WebPages.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\TidyNet.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Umbraco.Core.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\umbraco.DataLayer.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\umbraco.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\umbraco.editorControls.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\umbraco.MacroEngines.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Umbraco.ModelsBuilder.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\umbraco.providers.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Umbraco.Web.UI.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\UmbracoExamine.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\AutoMapper.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\AutoMapper.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\AutoMapper.Net4.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\businesslogic.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\ClientDependency.Core.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\ClientDependency.Core.Mvc.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\cms.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\controls.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Examine.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\HtmlAgilityPack.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\HtmlAgilityPack.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\ImageProcessor.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\ImageProcessor.Web.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\interfaces.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Lucene.Net.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.CodeAnalysis.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.Owin.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.Owin.Security.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\MiniProfiler.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\MiniProfiler.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Newtonsoft.Json.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\SQLCE4Umbraco.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Collections.Immutable.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Net.Http.Formatting.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Reflection.Metadata.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Threading.Tasks.Dataflow.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.ValueTuple.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.Helpers.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.Http.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.Http.WebHost.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.Mvc.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.Razor.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.WebPages.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\umbraco.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Umbraco.Core.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\umbraco.DataLayer.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\umbraco.editorControls.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\umbraco.MacroEngines.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Umbraco.ModelsBuilder.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\umbraco.providers.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\Umbraco.Web.UI.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\bin\UmbracoExamine.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\obj\Debug\AarhusWebDevCoop2.csprojResolveAssemblyReference.cache
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\obj\Debug\AarhusWebDevCoop2.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\obj\Debug\AarhusWebDevCoop2.csproj.CopyComplete
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\obj\Debug\AarhusWebDevCoop2.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2\AarhusWebDevCoop2\obj\Debug\AarhusWebDevCoop2.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\AutoMapper.Net4.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\AarhusWebDevCoop2.dll.config
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\AarhusWebDevCoop2.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\AarhusWebDevCoop2.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\csc.exe
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\csc.exe.config
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\csc.rsp
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\csi.exe
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\csi.exe.config
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\csi.rsp
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.AppContext.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Console.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\vbc.exe
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\vbc.exe.config
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\vbc.rsp
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\AutoMapper.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\businesslogic.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\ClientDependency.Core.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\ClientDependency.Core.Mvc.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\cms.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\controls.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Examine.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\HtmlAgilityPack.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\ImageProcessor.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\ImageProcessor.Web.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\interfaces.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Log4Net.Async.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\log4net.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Lucene.Net.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\MarkdownSharp.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.CodeAnalysis.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.Owin.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.Owin.Security.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\MiniProfiler.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\MySql.Data.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Newtonsoft.Json.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Owin.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Semver.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\SQLCE4Umbraco.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Collections.Immutable.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Data.SqlServerCe.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Data.SqlServerCe.Entity.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Net.Http.Formatting.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Reflection.Metadata.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Threading.Tasks.Dataflow.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.ValueTuple.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.Helpers.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.Http.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.Http.WebHost.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.Mvc.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.Razor.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.WebPages.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\TidyNet.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Umbraco.Core.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\umbraco.DataLayer.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\umbraco.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\umbraco.editorControls.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\umbraco.MacroEngines.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Umbraco.ModelsBuilder.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\umbraco.providers.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Umbraco.Web.UI.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\UmbracoExamine.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\AutoMapper.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\AutoMapper.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\AutoMapper.Net4.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\businesslogic.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\ClientDependency.Core.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\ClientDependency.Core.Mvc.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\cms.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\controls.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Examine.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\HtmlAgilityPack.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\HtmlAgilityPack.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\ImageProcessor.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\ImageProcessor.Web.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\interfaces.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Lucene.Net.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.CodeAnalysis.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.IO.RecyclableMemoryStream.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.Owin.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.Owin.Security.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\MiniProfiler.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\MiniProfiler.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Newtonsoft.Json.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\SQLCE4Umbraco.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Collections.Immutable.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Net.Http.Formatting.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Reflection.Metadata.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Threading.Tasks.Dataflow.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.ValueTuple.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.Helpers.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.Http.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.Http.WebHost.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.Mvc.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.Razor.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.WebPages.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\umbraco.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Umbraco.Core.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\umbraco.DataLayer.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\umbraco.editorControls.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\umbraco.MacroEngines.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Umbraco.ModelsBuilder.pdb
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\umbraco.providers.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\Umbraco.Web.UI.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\bin\UmbracoExamine.xml
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\obj\Debug\AarhusWebDevCoop2.csprojResolveAssemblyReference.cache
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\obj\Debug\AarhusWebDevCoop2.csproj.CoreCompileInputs.cache
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\obj\Debug\AarhusWebDevCoop2.csproj.CopyComplete
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\obj\Debug\AarhusWebDevCoop2.dll
+C:\Users\Bob\source\repos\AarhusWebDevCoop2 - Copy\AarhusWebDevCoop2\obj\Debug\AarhusWebDevCoop2.pdb
